@@ -4,6 +4,6 @@ Name=shell
 Comment=TODO
 Keywords=TODO
 Exec=/usr/bin/fish %u
-Icon=/usr/share/icons/a2n-s-icons/ok.png
+Icon=/usr/share/icons/a2n-s-icons-git/ok.png
 Terminal=true
 Type=Application

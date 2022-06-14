@@ -4,6 +4,6 @@ Name=rofi-bluetooth
 Comment=TODO
 Keywords=TODO
 Exec=/usr/bin/rofi-bluetooth
-Icon=/usr/share/icons/a2n-s-icons/ok.png
+Icon=/usr/share/icons/a2n-s-icons-git/ok.png
 Terminal=false
 Type=Application
