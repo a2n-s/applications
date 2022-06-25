@@ -6,6 +6,7 @@ A collection of applications written in ~.desktop~ format for linux
 one can use [[https://github.com/a2n-s/pkgbuilds][my custom PKGBUILD]] as follows:
 #+begin_src bash
 git clone https://github.com/a2n-s/pkgbuilds
+cd ./pkgbuilds
 ./install.sh x86_64/a2n-s-applications
 #+end_src
 *** on another distribution of Linux
