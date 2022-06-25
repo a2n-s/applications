@@ -1,15 +1,15 @@
 * applications
-A collection of applications written in .desktop format for linux
+A collection of applications written in ~.desktop~ format for linux
 
 ** Installation
 *** on ArchLinux
-one can use my custom PKGBUILD as follows:
-```bash
+one can use my custom ~PKGBUILD~ as follows:
+#+begin_src bash
 git clone https://github.com/a2n-s/pkgbuilds
 ./install.sh x86_64/a2n-s-applications
-```
+#+end_src
 *** on another distribution of Linux
-*Makefile and insttructions **coming soon***
+/Makefile and instructions *coming soon*/
 ** Usage
-The desktop files are installed by default in `/usr/share/applications`.
-Try `rofi -show drun` to make sure they are installed, e.g. `mocp` or `pulsemixer`.
+The desktop files are installed by default in ~/usr/share/applications~.
+Try ~rofi -show drun~ to make sure they are installed, e.g. ~mocp~ or ~pulsemixer~.
