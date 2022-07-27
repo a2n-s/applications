@@ -4,6 +4,6 @@ Name=NetworkManager dmenu (patched)
 Comment=TODO
 Keywords=TODO
 Exec=/usr/bin/networkmanager_dmenu -i -c -l 20 -bw 5 -fn "mononoki Nerd Font-20"
-Icon=/usr/share/icons/a2n-s-icons-git/dark/128x128/misc/ok.png
+Icon=/usr/share/icons/amtoine-icons-git/dark/128x128/misc/ok.png
 Terminal=false
 Type=Application

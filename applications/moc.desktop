@@ -4,6 +4,6 @@ Name=mocp
 Comment=TODO
 Keywords=TODO
 Exec=/usr/bin/mocp
-Icon=/usr/share/icons/a2n-s-icons-git/dark/128x128/misc/ok.png
+Icon=/usr/share/icons/amtoine-icons-git/dark/128x128/misc/ok.png
 Terminal=true
 Type=Application
