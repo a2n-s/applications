@@ -1,13 +1,13 @@
 * applications
-A collection of applications written in ~.desktop~ format for linux
+A collection of applications written in ~.desktop~ format for linux (and for goats).
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/amtoine-applications-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-applications-git/PKGBUILD][the PKGBUILD for goats]] as follows:
 #+begin_src bash
-git clone https://github.com/amtoine/pkgbuilds
+git clone https://github.com/goatfiles/pkgbuilds
 cd ./pkgbuilds
-./install.sh x86_64/amtoine-applications-git
+./install.sh x86_64/goat-applications-git
 #+end_src
 *** on another distribution of Linux
 /Makefile and instructions *coming soon*/
