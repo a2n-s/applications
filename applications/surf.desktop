@@ -4,6 +4,6 @@ Name=surf
 Comment=TODO
 Keywords=TODO
 Exec=/usr/bin/tabbed -c surf -N -e %u
-Icon=/usr/share/icons/amtoine-icons-git/dark/128x128/misc/ok.png
+Icon=/usr/share/icons/goat-icons-git/dark/128x128/misc/ok.png
 Terminal=false
 Type=Application
