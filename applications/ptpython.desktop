@@ -4,6 +4,6 @@ Name=ptpython
 Comment=TODO
 Keywords=TODO
 Exec=$HOME/.local/bin/ptpython
-Icon=/usr/share/icons/amtoine-icons-git/dark/128x128/misc/ok.png
+Icon=/usr/share/icons/goat-icons-git/dark/128x128/misc/ok.png
 Terminal=true
 Type=Application
