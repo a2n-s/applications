@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=netflix
+Comment=TODO
+Keywords=TODO
+Exec=firefox --new-window https://www.netflix.com/browse
+Icon=/usr/share/icons/goat-icons-git/dark/128x128/misc/ok.png
+Terminal=false
+Type=Application
