@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=wali
+Comment=TODO
+Keywords=TODO
+Exec=firefox --new-window https://wali-m.isae.fr
+Icon=/usr/share/icons/goat-icons-git/dark/128x128/misc/ok.png
+Terminal=false
+Type=Application
